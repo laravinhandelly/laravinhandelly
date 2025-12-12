@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🌐 Sobre mim
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica pelo SENAI e conhecimento sólido em lógica de programação, linguagem C e eletroeletrônica aplicada.
+Tenho uma forte afinidade pela área de tecnologia e estou sempre buscando aprender mais, entender o porquê das coisas e aprofundar cada conceito — sou detalhista por natureza.
+Gosto de desafios que me fazem evoluir e acredito que a tecnologia transforma vidas quando aplicada com propósito. Meu objetivo é crescer profissionalmente na área, contribuindo com soluções eficientes, bem pensadas e com foco na experiência e qualidade.
 
-<!--
-**laravinhandelly/laravinhandelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 O que me move
+Aprender continuamente e transformar conhecimento em prática.
+Resolver problemas de forma lógica e inteligente.
+Entender o que estou estudando, não apenas decorar.
+Participar de projetos que envolvem criatividade, análise e desenvolvimento.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Em busca de
+Oportunidades que me permitam evoluir, colaborar com outros profissionais e aplicar tudo o que venho estudando com dedicação.
