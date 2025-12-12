@@ -11,3 +11,6 @@ Participar de projetos que envolvem criatividade, análise e desenvolvimento.
 
 🚀 Em busca de
 Oportunidades que me permitam evoluir, colaborar com outros profissionais e aplicar tudo o que venho estudando com dedicação.
+contato:
+Email: laravinhandelly@gmail.com
+linkedin: www.linkedin.com/in/lara-silva-b47648207
